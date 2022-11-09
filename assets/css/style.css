@@ -391,7 +391,7 @@ select {
 }
 
 .bootstrap-select.btn-group .dropdown-menu.inner {
-    position: static; *
+    position: static; 
     float: none;
     border: 0;
     padding: 0;
@@ -652,7 +652,7 @@ html, body {
 .site-title {
     font-size: 18px;
     line-height: 26px;
-    color: #26272d=;
+    color: #26272d;
 }
 
 .site-title:hover {
