@@ -461,7 +461,7 @@ select {
 .nav-tabs.tab-style > li > a:hover {
     border: 1px solid #6fc754;
     background-color: #6fc754;
-    color: rgba(255, 255, 255, 0);
+    color: rgb(255, 255, 255);
 }
 
 .nav-tabs.tab-style > li > a {
