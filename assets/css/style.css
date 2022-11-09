@@ -717,7 +717,7 @@ html, body {
 .slicknav_nav > li a:hover {
     /*background-color: transparent;*/
     opacity: .4;
-    color: #6fc754;
+    color: #309f0e;
 }
 
 .navbar-toggle {
@@ -750,7 +750,7 @@ html, body {
     border-radius: 0;
     min-width: 130px;
     border: 0;
-    border-top: 5px solid #6fc754;
+    border-top: 5px solid #309f0e;
     top: 140%;
     transition: all 0.4s;
     -moz-transition: all 0.4s;
@@ -789,7 +789,7 @@ html, body {
 
 .overlay:before {
   content: '';
-  background-color: rgba(4, 3, 3, 0.5);
+  background-color: rgba(255, 255, 255, 0.5);
   height: 100%;
   width: 100%;
   position: absolute;
