@@ -954,7 +954,7 @@ html, body {
 /* Section: Map Feature */
 .section-map-feature {
     padding-top: 250px;
-    background: #071021 url(../img/map.png) no-repeat top center / cover; 
+    background: #071021 url(../img/u21-2022-winners.jpg) no-repeat top center / cover; 
 }
 
 .section-map-feature h2 {
@@ -973,6 +973,8 @@ html, body {
 
 .counter {
     margin-bottom: 30px;
+    background-color: #309f0e;
+    background: transparent;
     font-size: 40px;
     font-weight: 300;
     line-height: 1;
@@ -981,7 +983,7 @@ html, body {
 .counter-item h3 {
     margin: 0;
     font-size: 16px;
-    color: #0960d7;
+    color: #ffffff;
 }
 
 /* Section: Portfolio */
