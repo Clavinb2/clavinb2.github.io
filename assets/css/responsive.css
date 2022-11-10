@@ -222,7 +222,7 @@
 
 	/* Navigation */
 	.site-navigation {
-		position: absolute;
+		position: sticky;
 	}
 
 	.main-menu {
