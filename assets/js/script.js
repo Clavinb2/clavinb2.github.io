@@ -72,7 +72,7 @@ $(function () {
       $("#loadMore").on('click', function(e) {
         e.preventDefault();
         $("#grid .col-md-4:hidden")
-          .slice(0, 4)
+          .slice(0, 24)
           .fadeIn()
           .each(function() {
             $grid.shuffle('appended', $(this));
